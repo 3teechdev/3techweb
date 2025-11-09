@@ -27,8 +27,7 @@ const Hero = () => {
 
           {/* Subheading */}
           <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-12 max-w-2xl mx-auto animate-fade-in">
-            Transform your ideas into stunning web experiences with 3-Tech
-            Developer - Your trusted partner in web development
+            Transform your ideas into stunning web experiences with Crazeon System - Your trusted partner in web development
           </p>
 
           {/* Buttons */}
