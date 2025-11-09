@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import { Code2, Menu, X } from "lucide-react";
+import logo from './images/logo.png';
 
 const Header = () => {
   const location = useLocation();
@@ -16,9 +17,9 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center">
-              <Code2 className="h-5 w-5 text-[#232839]" />
+                <img src={logo} alt="" className="h-5 w-5 text-[#232839]"/>
             </div>
-            <span className="text-xl font-bold text-[#a6a6b3]">3-Tech Developer</span>
+            <span className="text-xl font-bold text-[#a6a6b3]">Crazeon System </span>
           </Link>
 
           {/* Desktop Menu */}

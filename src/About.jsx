@@ -26,7 +26,7 @@ const About = () => {
       <section className="pt-32 pb-20 px-4">
         <div className="container mx-auto max-w-4xl">
           <h1 className="text-5xl md:text-6xl font-bold mb-6 text-center bg-gradient-to-r from-[#f5f5f7] via-[#cfd6e3] to-[#f5f5f7] bg-clip-text text-transparent animate-fade-in">
-            About 3-Tech Developer
+            About Crazeon System
           </h1>
           <p className="text-xl text-[#cfd6e3]/80 text-center mb-12 animate-slide-up">
             Crafting digital experiences with passion and precision
@@ -102,7 +102,7 @@ const About = () => {
 
       {/* Footer */}
       <footer className="bg-white/5 backdrop-blur-sm py-8 text-center text-[#cfd6e3] border-t border-[#a8b1c0]/30">
-        <p>&copy; 2024 3-Tech Developer. All rights reserved.</p>
+        <p>&copy; 2024 Crazeon System. All rights reserved.</p>
       </footer>
     </div>
   );

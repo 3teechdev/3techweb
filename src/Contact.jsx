@@ -140,7 +140,7 @@ const Contact = () => {
                   <Mail className="h-6 w-6 text-blue-400 mt-1" />
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p>3tech1723@gmail.com</p>
+                    <p>crazeonsystem@gmail.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -158,7 +158,7 @@ const ContactPage = () => {
     <div className="min-h-screen bg-gradient-to-b bg-[#180f1c]">
       <Contact />
       <footer className="bg-gray-900/50 backdrop-blur-sm py-8 text-center text-gray-400 border-t border-gray-700">
-        <p>&copy; 2024 3-Tech Developer. All rights reserved.</p>
+        <p>&copy; 2024 Crazeon System. All rights reserved.</p>
       </footer>
     </div>
   );

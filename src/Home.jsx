@@ -172,7 +172,7 @@ const Home = () => {
 
         {/* Footer */}
         <footer className="bg-white/5 backdrop-blur-sm py-8 text-center text-[#cfd6e3] border-t border-[#a8b1c0]/30">
-          <p>&copy; 2024 3-Tech Developer. All rights reserved.</p>
+          <p>&copy; 2024 Crazeon System. All rights reserved.</p>
         </footer>
       </div>
     </section>

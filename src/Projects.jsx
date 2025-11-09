@@ -115,7 +115,7 @@ const ProjectsPage = () => {
         <Projects />
       </div>
       <footer className="bg-gray-900/50 backdrop-blur-sm py-8 text-center text-gray-400 border-t border-gray-700">
-        <p>&copy; 2024 3-Tech Developer. All rights reserved.</p>
+        <p>&copy; 2024 Crazeon System. All rights reserved.</p>
       </footer>
     </div>
   );
