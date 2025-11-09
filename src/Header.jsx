@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import { Code2, Menu, X } from "lucide-react";
 import logo from './images/logo.png';
+// import logo from './images/favicon.png';
 
 const Header = () => {
   const location = useLocation();
@@ -16,8 +17,8 @@ const Header = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center">
-                <img src={logo} alt="" className="h-5 w-5 text-[#232839]"/>
+            <div className="w-12 h-12 rounded-full  flex items-center justify-center">
+                <img src={logo} alt="" className="h-12 w-12 text-[#232839]"/>
             </div>
             <span className="text-xl font-bold text-[#a6a6b3]">Crazeon System </span>
           </Link>
