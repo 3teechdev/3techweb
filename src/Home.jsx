@@ -19,7 +19,6 @@ const Hero = () => {
               Professional Web Development
             </span>
           </div>
-
           {/* Heading */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl py-3 font-bold mb-6 bg-gradient-to-r from-[#E5E7EB] via-[#C7D2FE] to-[#E5E7EB] bg-clip-text text-transparent animate-slide-up">
             Building Digital Excellence

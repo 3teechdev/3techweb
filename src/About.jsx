@@ -37,7 +37,7 @@ const About = () => {
             <div className="bg-white/10 rounded-2xl p-8 border border-[#cfd6e3]/30 shadow-lg mb-8 animate-scale-in">
               <h2 className="text-3xl font-bold mb-4 text-[#f5f5f7]">Our Story</h2>
               <p className="text-[#cfd6e3]/90 leading-relaxed">
-                Founded with a vision to transform ideas into exceptional digital solutions, 3-Tech Developer 
+                Founded with a vision to transform ideas into exceptional digital solutions, Crezeon System 
                 has been at the forefront of web development innovation. We combine technical expertise with 
                 creative design to deliver products that not only meet but exceed expectations.
               </p>
